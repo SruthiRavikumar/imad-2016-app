@@ -21,4 +21,6 @@ body {
 }
 .box{
     margin-top: 20px;
+    font-size: 100%;
+    text-align: center;
 }
